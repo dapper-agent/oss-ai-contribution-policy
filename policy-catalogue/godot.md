@@ -1,7 +1,7 @@
 # godotengine/godot — AI-contribution policy (catalogue entry)
 
 - **Project:** [godotengine/godot](https://github.com/godotengine/godot)
-- **Policy location:** [Changes to our Contribution Policies](https://godotengine.org/article/contribution-policy-2026/) — Godot Foundation blog (2026-07); the Foundation says the amended policy will be folded into the [contributing documentation](https://contributing.godotengine.org/)
+- **Policy location:** [Changes to our Contribution Policies](https://godotengine.org/article/contribution-policy-2026/) — Godot Foundation blog (2026-06-30); the Foundation says the amended policy will be folded into the [contributing documentation](https://contributing.godotengine.org/)
 - **Captured on:** 2026-09-27
 
 ## Policy substance (mapped to schema fields)
